@@ -157,5 +157,5 @@ docker run -p 8000:8000 foodmood-backend
 ### Live URL
 
 You can access the deployed backend at:
-<a href="https://food-mood-backend-q7gb.onrender.com/api/" target="_blank">FoodMood API</a>
+<a href="https://foodmoodsbackend.onrender.com/api" target="_blank">FoodMood API</a>
 
