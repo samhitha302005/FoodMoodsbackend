@@ -82,7 +82,8 @@ Before running the application, you need to populate the database with restauran
 Run the following commands to load the initial data:
 
 ```bash
-node scripts/createStrictDishAvailability.js
+cd scripts
+node createStrictDishAvailability.js
 ```
 
 #### 5. Start the Application:
