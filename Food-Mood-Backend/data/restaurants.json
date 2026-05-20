@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Curry House",
+    "cuisine_type": "Indian",
+    "rating": 4.5,
+    "image_url": "/images/R1.jpg"
+  },
+  {
+    "name": "Tokyo Sushi",
+    "cuisine_type": "Japanese",
+    "rating": 4.8,
+    "image_url": "/images/R2.jpg"
+  },
+  {
+    "name": "Green Eats",
+    "cuisine_type": "Vegan",
+    "rating": 4.2,
+    "image_url": "/images/R3.jpg"
+  },
+  {
+    "name": "La Bella Pasta",
+    "cuisine_type": "Italian",
+    "rating": 4.6,
+    "image_url": "/images/R4.jpg"
+  },
+  {
+    "name": "Burger Haven",
+    "cuisine_type": "American",
+    "rating": 4.3,
+    "image_url": "/images/R5.jpg"
+  },
+  {
+    "name": "Taco Loco",
+    "cuisine_type": "Mexican",
+    "rating": 4.4,
+    "image_url": "/images/R6.jpg"
+  },
+  {
+    "name": "Pho Delight",
+    "cuisine_type": "Vietnamese",
+    "rating": 4.7,
+    "image_url": "/images/R7.jpg"
+  },
+  {
+    "name": "The Greek Table",
+    "cuisine_type": "Greek",
+    "rating": 4.5,
+    "image_url": "/images/R8.jpg"
+  },
+  {
+    "name": "Spice Garden",
+    "cuisine_type": "Thai",
+    "rating": 4.6,
+    "image_url": "/images/R9.jpg"
+  },
+  {
+    "name": "Le Petit Bistro",
+    "cuisine_type": "French",
+    "rating": 4.7,
+    "image_url": "/images/R10.jpg"
+  }
+]

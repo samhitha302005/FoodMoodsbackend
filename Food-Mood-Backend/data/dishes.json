@@ -1,0 +1,1952 @@
+[ 
+  {
+    "name": "Spicy Chicken Curry",
+    "description": "A rich and spicy Indian-style chicken curry.",
+    "image_url": "/images/1.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.9,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.6,
+      "bitterness": 0.1,
+      "umami": 0.8,
+      "crunchiness": 0.1,
+      "creaminess": 0.4,
+      "chewiness": 0.6,
+      "juiciness": 0.5,
+      "hotness": 0.9,
+      "oiliness": 0.7,
+      "smokiness": 0.2,
+      "charredness": 0.1,
+      "herbaceous": 0.4,
+      "garlicky": 0.7,
+      "oniony": 0.6,
+      "citrusy": 0.2,
+      "fermented": 0.2, 
+      "meatiness": 0.9,
+      "seafoodiness": 0.0,
+      "vegetal": 0.4,
+      "dairiness": 0.1,
+      "carb_rich": 0.3,
+      "nutty": 0.1
+    },
+    "tags": ["spicy", "chicken", "indian"],
+    "calories": 450,
+    "vegetarian": false, 
+    "rating": 4
+  },  
+  {
+    "name": "Sushi Platter",
+    "description": "Assorted sushi with fresh fish and vegetables.",
+    "image_url": "/images/2.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.3,
+      "sourness": 0.4,
+      "saltiness": 0.5,
+      "bitterness": 0.1,
+      "umami": 0.9,
+      
+      "crunchiness": 0.3,
+      "creaminess": 0.4,
+      "chewiness": 0.6,
+      "juiciness": 0.6,
+      
+      "hotness": 0.2,
+      "oiliness": 0.1,
+      "smokiness": 0.1,
+      "charredness": 0.0,
+      
+      "herbaceous": 0.3,
+      "garlicky": 0.0,
+      "oniony": 0.2,
+      "citrusy": 0.3,
+      "fermented": 0.6,
+      
+      "meatiness": 0.2,
+      "seafoodiness": 0.9,
+      "vegetal": 0.4,
+      "dairiness": 0.0,
+      "carb_rich": 0.7,
+      "nutty": 0.1
+    },
+    "tags": ["japanese", "rice", "fish"],
+    "calories": 400,
+    "vegetarian": false, 
+    "rating": 5
+  },  
+  {
+    "name": "Vegan Buddha Bowl",
+    "description": "Healthy bowl with grains, greens, and tofu.",
+    "image_url": "/images/3.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.2,
+      "sweetness": 0.3,
+      "sourness": 0.3,
+      "saltiness": 0.4,
+      "bitterness": 0.2,
+      "umami": 0.5,
+  
+      "crunchiness": 0.5,
+      "creaminess": 0.3,
+      "chewiness": 0.5,
+      "juiciness": 0.4,
+  
+      "hotness": 0.3,
+      "oiliness": 0.2,
+      "smokiness": 0.0,
+      "charredness": 0.1,
+  
+      "herbaceous": 0.6,
+      "garlicky": 0.2,
+      "oniony": 0.2,
+      "citrusy": 0.4,
+      "fermented": 0.1,
+  
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.8,
+      "dairiness": 0.0,
+      "carb_rich": 0.6,
+      "nutty": 0.3
+    },
+    "tags": ["vegan", "healthy", "gluten-free"],
+    "calories": 500,
+    "vegetarian": true, 
+    "rating": 4
+  },
+  {
+    "name": "Beef Stroganoff",
+    "description": "Creamy beef stroganoff with mushrooms and egg noodles.",
+    "image_url": "/images/4.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.6,
+      "bitterness": 0.2,
+      "umami": 0.9,
+  
+      "crunchiness": 0.1,
+      "creaminess": 0.8,
+      "chewiness": 0.6,
+      "juiciness": 0.5,
+  
+      "hotness": 0.6,
+      "oiliness": 0.5,
+      "smokiness": 0.1,
+      "charredness": 0.1,
+  
+      "herbaceous": 0.2,
+      "garlicky": 0.4,
+      "oniony": 0.6,
+      "citrusy": 0.0,
+      "fermented": 0.1,
+  
+      "meatiness": 0.9,
+      "seafoodiness": 0.0,
+      "vegetal": 0.2,
+      "dairiness": 0.7,
+      "carb_rich": 0.7,
+      "nutty": 0.1
+    },
+    "tags": ["beef", "comfort food", "russian"],
+    "calories": 650,
+    "vegetarian": false, 
+    "rating": 5
+  },    
+  {
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with tomatoes, mozzarella, and basil.",
+    "image_url": "/images/5.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.3,
+      "sourness": 0.2,
+      "saltiness": 0.6,
+      "bitterness": 0.1,
+      "umami": 0.7,
+  
+      "crunchiness": 0.4,
+      "creaminess": 0.5,
+      "chewiness": 0.6,
+      "juiciness": 0.4,
+  
+      "hotness": 0.6,
+      "oiliness": 0.5,
+      "smokiness": 0.1,
+      "charredness": 0.3,
+  
+      "herbaceous": 0.4,
+      "garlicky": 0.1,
+      "oniony": 0.2,
+      "citrusy": 0.0,
+      "fermented": 0.3,
+  
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.5,
+      "dairiness": 0.8,
+      "carb_rich": 0.8,
+      "nutty": 0.1
+    },
+    "tags": ["italian", "vegetarian", "pizza"],
+    "calories": 300,
+    "vegetarian": true, 
+    "rating": 4
+  },
+  {
+    "name": "Pad Thai",
+    "description": "Thai stir-fried rice noodles with shrimp and peanuts.",
+    "image_url": "/images/6.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.5,
+      "sweetness": 0.6,
+      "sourness": 0.4,
+      "saltiness": 0.6,
+      "bitterness": 0.1,
+      "umami": 0.8,
+  
+      "crunchiness": 0.3,
+      "creaminess": 0.2,
+      "chewiness": 0.6,
+      "juiciness": 0.5,
+  
+      "hotness": 0.5,
+      "oiliness": 0.6,
+      "smokiness": 0.1,
+      "charredness": 0.1,
+  
+      "herbaceous": 0.3,
+      "garlicky": 0.4,
+      "oniony": 0.3,
+      "citrusy": 0.2,
+      "fermented": 0.3,
+  
+      "meatiness": 0.2,
+      "seafoodiness": 0.8,
+      "vegetal": 0.3,
+      "dairiness": 0.0,
+      "carb_rich": 0.8,
+      "nutty": 0.7
+    },
+    "tags": ["thai", "noodles", "shrimp"],
+    "calories": 550,
+    "vegetarian": false, 
+    "rating": 4
+  },
+  {
+    "name": "Falafel Wrap",
+    "description": "Crispy falafel in pita bread with tahini sauce.",
+    "image_url": "/images/7.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.3,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.5,
+      "bitterness": 0.2,
+      "umami": 0.6,
+  
+      "crunchiness": 0.7,
+      "creaminess": 0.4,
+      "chewiness": 0.5,
+      "juiciness": 0.4,
+  
+      "hotness": 0.4,
+      "oiliness": 0.5,
+      "smokiness": 0.1,
+      "charredness": 0.1,
+  
+      "herbaceous": 0.5,
+      "garlicky": 0.6,
+      "oniony": 0.3,
+      "citrusy": 0.1,
+      "fermented": 0.2,
+  
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.7,
+      "dairiness": 0.1,
+      "carb_rich": 0.7,
+      "nutty": 0.4
+    },
+    "tags": ["middle eastern", "vegetarian", "wrap"],
+    "calories": 600,
+    "vegetarian": true, 
+    "rating": 4
+  },
+  {
+    "name": "BBQ Ribs",
+    "description": "Slow-cooked pork ribs glazed with BBQ sauce.",
+    "image_url": "/images/8.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.4,
+      "sweetness": 0.6,
+      "sourness": 0.2,
+      "saltiness": 0.7,
+      "bitterness": 0.2,
+      "umami": 0.9,
+  
+      "crunchiness": 0.2,
+      "creaminess": 0.1,
+      "chewiness": 0.8,
+      "juiciness": 0.7,
+  
+      "hotness": 0.7,
+      "oiliness": 0.7,
+      "smokiness": 0.8,
+      "charredness": 0.6,
+  
+      "herbaceous": 0.2,
+      "garlicky": 0.5,
+      "oniony": 0.4,
+      "citrusy": 0.1,
+      "fermented": 0.2,
+  
+      "meatiness": 1.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.1,
+      "dairiness": 0.0,
+      "carb_rich": 0.2,
+      "nutty": 0.0
+    },
+    "tags": ["bbq", "pork", "american"],
+    "calories": 700,
+    "vegetarian": false, 
+    "rating": 5
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "Sourdough topped with mashed avocado and chili flakes.",
+    "image_url": "/images/9.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.3,
+      "sweetness": 0.2,
+      "sourness": 0.2,
+      "saltiness": 0.5,
+      "bitterness": 0.2,
+      "umami": 0.5,
+  
+      "crunchiness": 0.5,
+      "creaminess": 0.6,
+      "chewiness": 0.3,
+      "juiciness": 0.3,
+  
+      "hotness": 0.3,
+      "oiliness": 0.4,
+      "smokiness": 0.0,
+      "charredness": 0.2,
+  
+      "herbaceous": 0.4,
+      "garlicky": 0.2,
+      "oniony": 0.2,
+      "citrusy": 0.1,
+      "fermented": 0.1,
+  
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.7,
+      "dairiness": 0.0,
+      "carb_rich": 0.6,
+      "nutty": 0.3
+    },
+    "tags": ["brunch", "healthy", "vegetarian"],
+    "calories": 350,
+    "vegetarian": true, 
+    "rating": 3
+  },
+  {
+    "name": "Butter Chicken",
+    "description": "Creamy tomato-based Indian chicken curry.",
+    "image_url": "/images/10.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.5,
+      "sweetness": 0.3,
+      "sourness": 0.2,
+      "saltiness": 0.6,
+      "bitterness": 0.1,
+      "umami": 0.9,
+  
+      "crunchiness": 0.0,
+      "creaminess": 0.9,
+      "chewiness": 0.5,
+      "juiciness": 0.6,
+  
+      "hotness": 0.8,
+      "oiliness": 0.6,
+      "smokiness": 0.1,
+      "charredness": 0.0,
+  
+      "herbaceous": 0.3,
+      "garlicky": 0.6,
+      "oniony": 0.5,
+      "citrusy": 0.0,
+      "fermented": 0.1,
+  
+      "meatiness": 0.8,
+      "seafoodiness": 0.0,
+      "vegetal": 0.3,
+      "dairiness": 0.7,
+      "carb_rich": 0.4,
+      "nutty": 0.0
+    },
+    "tags": ["indian", "chicken", "curry"],
+    "calories": 520,
+    "vegetarian": false, 
+    "rating": 5
+  },
+  {
+    "name": "Miso Ramen",
+    "description": "Japanese noodle soup with miso broth and pork slices.",
+    "image_url": "/images/11.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.3,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.7,
+      "bitterness": 0.1,
+      "umami": 0.9,
+  
+      "crunchiness": 0.0,
+      "creaminess": 0.3,
+      "chewiness": 0.5,
+      "juiciness": 0.6,
+  
+      "hotness": 0.7,
+      "oiliness": 0.4,
+      "smokiness": 0.1,
+      "charredness": 0.0,
+  
+      "herbaceous": 0.2,
+      "garlicky": 0.3,
+      "oniony": 0.4,
+      "citrusy": 0.0,
+      "fermented": 0.6,
+  
+      "meatiness": 0.7,
+      "seafoodiness": 0.2,
+      "vegetal": 0.3,
+      "dairiness": 0.0,
+      "carb_rich": 0.7,
+      "nutty": 0.0
+    },
+    "tags": ["japanese", "ramen", "pork"],
+    "calories": 600,
+    "vegetarian": false, 
+    "rating": 4
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce with Caesar dressing and croutons.",
+    "image_url": "/images/12.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.1,
+      "sourness": 0.2,
+      "saltiness": 0.6,
+      "bitterness": 0.2,
+      "umami": 0.6,
+  
+      "crunchiness": 0.7,
+      "creaminess": 0.5,
+      "chewiness": 0.2,
+      "juiciness": 0.3,
+  
+      "hotness": 0.1,
+      "oiliness": 0.4,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+  
+      "herbaceous": 0.4,
+      "garlicky": 0.5,
+      "oniony": 0.3,
+      "citrusy": 0.1,
+      "fermented": 0.2,
+  
+      "meatiness": 0.1,
+      "seafoodiness": 0.2,
+      "vegetal": 0.7,
+      "dairiness": 0.5,
+      "carb_rich": 0.3,
+      "nutty": 0.1
+    },
+    "tags": ["salad", "healthy", "classic"],
+    "calories": 350,
+    "vegetarian": false, 
+    "rating": 3
+  },
+  {
+    "name": "Paneer Tikka",
+    "description": "Grilled paneer cubes marinated in spicy yogurt.",
+    "image_url": "/images/13.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.7,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.6,
+      "bitterness": 0.1,
+      "umami": 0.7,
+  
+      "crunchiness": 0.3,
+      "creaminess": 0.4,
+      "chewiness": 0.5,
+      "juiciness": 0.4,
+  
+      "hotness": 0.7,
+      "oiliness": 0.4,
+      "smokiness": 0.2,
+      "charredness": 0.5,
+  
+      "herbaceous": 0.4,
+      "garlicky": 0.6,
+      "oniony": 0.5,
+      "citrusy": 0.0,
+      "fermented": 0.3,
+  
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.5,
+      "dairiness": 0.8,
+      "carb_rich": 0.2,
+      "nutty": 0.0
+    },
+    "tags": ["indian", "vegetarian", "grilled"],
+    "calories": 400,
+    "vegetarian": true, 
+    "rating": 4
+  },
+  {
+    "name": "Fish Tacos",
+    "description": "Grilled fish tacos with cabbage slaw and crema.",
+    "image_url": "/images/14.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.4,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.5,
+      "bitterness": 0.1,
+      "umami": 0.7,
+  
+      "crunchiness": 0.5,
+      "creaminess": 0.4,
+      "chewiness": 0.4,
+      "juiciness": 0.6,
+  
+      "hotness": 0.5,
+      "oiliness": 0.4,
+      "smokiness": 0.2,
+      "charredness": 0.3,
+  
+      "herbaceous": 0.3,
+      "garlicky": 0.4,
+      "oniony": 0.3,
+      "citrusy": 0.2,
+      "fermented": 0.2,
+  
+      "meatiness": 0.2,
+      "seafoodiness": 0.9,
+      "vegetal": 0.4,
+      "dairiness": 0.2,
+      "carb_rich": 0.6,
+      "nutty": 0.0
+    },
+    "tags": ["mexican", "seafood", "tacos"],
+    "calories": 480,
+    "vegetarian": false, 
+    "rating": 4
+  },
+  {
+    "name": "Bulgogi Bowl",
+    "description": "Korean-style marinated beef with rice and veggies.",
+    "image_url": "/images/15.jpg",
+    "genome_data": {
+      "spiciness": 0.4,
+      "sweetness": 0.5,
+      "sourness": 0.2,
+      "saltiness": 0.6,
+      "bitterness": 0.1,
+      "umami": 0.9,
+  
+      "crunchiness": 0.2,
+      "creaminess": 0.1,
+      "chewiness": 0.7,
+      "juiciness": 0.6,
+  
+      "hotness": 0.6,
+      "oiliness": 0.5,
+      "smokiness": 0.2,
+      "charredness": 0.3,
+  
+      "herbaceous": 0.3,
+      "garlicky": 0.5,
+      "oniony": 0.4,
+      "citrusy": 0.1,
+      "fermented": 0.5,
+  
+      "meatiness": 0.9,
+      "seafoodiness": 0.0,
+      "vegetal": 0.4,
+      "dairiness": 0.0,
+      "carb_rich": 0.7,
+      "nutty": 0.1
+    },
+    "tags": ["korean", "beef", "bowl"],
+    "calories": 600,
+    "vegetarian": false, 
+    "rating": 5
+  },
+  {
+    "name": "Greek Salad",
+    "description": "Fresh salad with feta, olives, cucumber, and tomato.",
+    "image_url": "/images/16.jpg",
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.5,
+      "bitterness": 0.2,
+      "umami": 0.5,
+  
+      "crunchiness": 0.6,
+      "creaminess": 0.2,
+      "chewiness": 0.2,
+      "juiciness": 0.5,
+  
+      "hotness": 0.1,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+  
+      "herbaceous": 0.4,
+      "garlicky": 0.2,
+      "oniony": 0.3,
+      "citrusy": 0.2,
+      "fermented": 0.1,
+  
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.8,
+      "dairiness": 0.5,
+      "carb_rich": 0.2,
+      "nutty": 0.1
+    },
+    "tags": ["greek", "vegetarian", "healthy"],
+    "calories": 280,
+    "vegetarian": true, 
+    "rating": 4
+  },
+  {
+    "name": "Kimchi Fried Rice",
+    "description": "Spicy Korean fried rice with kimchi and egg.",
+    "image_url": "/images/17.jpg",
+    "genome_data": {
+      "spiciness": 0.8,
+      "sweetness": 0.2,
+      "sourness": 0.4,
+      "saltiness": 0.6,
+      "bitterness": 0.1,
+      "umami": 0.8,
+  
+      "crunchiness": 0.3,
+      "creaminess": 0.2,
+      "chewiness": 0.5,
+      "juiciness": 0.4,
+  
+      "hotness": 0.6,
+      "oiliness": 0.5,
+      "smokiness": 0.1,
+      "charredness": 0.1,
+  
+      "herbaceous": 0.3,
+      "garlicky": 0.5,
+      "oniony": 0.4,
+      "citrusy": 0.1,
+      "fermented": 0.9,
+  
+      "meatiness": 0.3,
+      "seafoodiness": 0.2,
+      "vegetal": 0.5,
+      "dairiness": 0.1,
+      "carb_rich": 0.8,
+      "nutty": 0.1
+    },
+    "tags": ["korean", "spicy", "rice"],
+    "calories": 500,
+    "vegetarian": false, 
+    "rating": 4
+  },
+  {
+    "name": "Tandoori Chicken",
+    "description": "Grilled chicken marinated in yogurt and spices.",
+    "image_url": "/images/18.jpg",
+    "genome_data": {
+      "spiciness": 0.7,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.6,
+      "bitterness": 0.1,
+      "umami": 0.8,
+  
+      "crunchiness": 0.2,
+      "creaminess": 0.2,
+      "chewiness": 0.6,
+      "juiciness": 0.6,
+  
+      "hotness": 0.8,
+      "oiliness": 0.4,
+      "smokiness": 0.4,
+      "charredness": 0.6,
+  
+      "herbaceous": 0.4,
+      "garlicky": 0.6,
+      "oniony": 0.4,
+      "citrusy": 0.1,
+      "fermented": 0.3,
+  
+      "meatiness": 0.9,
+      "seafoodiness": 0.0,
+      "vegetal": 0.2,
+      "dairiness": 0.4,
+      "carb_rich": 0.2,
+      "nutty": 0.0
+    },
+    "tags": ["indian", "grilled", "chicken"],
+    "calories": 450,
+    "vegetarian": false, 
+    "rating": 5
+  },
+  {
+    "name": "Pasta Carbonara",
+    "description": "Creamy Italian pasta with egg, cheese, and pancetta.",
+    "image_url": "/images/19.jpg",
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.1,
+      "sourness": 0.1,
+      "saltiness": 0.7,
+      "bitterness": 0.1,
+      "umami": 0.8,
+  
+      "crunchiness": 0.1,
+      "creaminess": 0.9,
+      "chewiness": 0.4,
+      "juiciness": 0.2,
+  
+      "hotness": 0.6,
+      "oiliness": 0.5,
+      "smokiness": 0.2,
+      "charredness": 0.1,
+  
+      "herbaceous": 0.2,
+      "garlicky": 0.3,
+      "oniony": 0.3,
+      "citrusy": 0.0,
+      "fermented": 0.2,
+  
+      "meatiness": 0.6,
+      "seafoodiness": 0.0,
+      "vegetal": 0.2,
+      "dairiness": 0.9,
+      "carb_rich": 0.9,
+      "nutty": 0.1
+    },
+    "tags": ["italian", "pasta", "creamy"],
+    "calories": 580,
+    "vegetarian": false, 
+    "rating": 4
+  },
+  {
+    "name": "Chickpea Salad",
+    "description": "Protein-rich salad with chickpeas and herbs.",
+    "image_url": "/images/20.jpg",
+    "genome_data": {
+      "spiciness": 0.2,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.5,
+      "bitterness": 0.2,
+      "umami": 0.5,
+  
+      "crunchiness": 0.5,
+      "creaminess": 0.2,
+      "chewiness": 0.4,
+      "juiciness": 0.4,
+  
+      "hotness": 0.2,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+  
+      "herbaceous": 0.6,
+      "garlicky": 0.3,
+      "oniony": 0.2,
+      "citrusy": 0.1,
+      "fermented": 0.1,
+  
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.7,
+      "dairiness": 0.0,
+      "carb_rich": 0.4,
+      "nutty": 0.3
+    },
+    "tags": ["vegan", "salad", "healthy"],
+    "calories": 400,
+    "vegetarian": true, 
+    "rating": 3
+  },
+  {
+    "name": "Shrimp Scampi",
+    "description": "Garlic butter shrimp pasta with a hint of lemon and white wine.",
+    "image_url": "/images/21.jpg",
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.4,
+      "bitterness": 0.1,
+      "umami": 0.6,
+      "crunchiness": 0.3,
+      "creaminess": 0.5,
+      "chewiness": 0.4,
+      "juiciness": 0.5,
+      "hotness": 0.2,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.4,
+      "garlicky": 0.7,
+      "oniony": 0.2,
+      "citrusy": 0.3,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.8,
+      "vegetal": 0.0,
+      "dairiness": 0.3,
+      "carb_rich": 0.4,
+      "nutty": 0.0
+    },
+    "tags": ["seafood", "pasta", "garlic butter"],
+    "calories": 145,
+    "vegetarian": false, 
+    "rating": 4
+  },
+  {
+    "name": "Eggplant Parmesan",
+    "description": "Breaded and baked eggplant slices layered with marinara and melted cheese.",
+    "image_url": "/images/22.jpg",
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.1,
+      "sourness": 0.2,
+      "saltiness": 0.3,
+      "bitterness": 0.4,
+      "umami": 0.5,
+      "crunchiness": 0.6,
+      "creaminess": 0.5,
+      "chewiness": 0.4,
+      "juiciness": 0.3,
+      "hotness": 0.0,
+      "oiliness": 0.4,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.3,
+      "garlicky": 0.2,
+      "oniony": 0.1,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.8,
+      "dairiness": 0.6,
+      "carb_rich": 0.5,
+      "nutty": 0.0
+    },
+    "tags": ["vegetarian", "Italian", "cheesy"],
+    "calories": 317,
+    "vegetarian": true, 
+    "rating": 4
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "description": "Grilled chicken chunks in a rich, spiced tomato and cream sauce.",
+    "image_url": "/images/23.jpg",
+    "genome_data": {
+      "spiciness": 0.6,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.3,
+      "bitterness": 0.1,
+      "umami": 0.7,
+      "crunchiness": 0.2,
+      "creaminess": 0.6,
+      "chewiness": 0.5,
+      "juiciness": 0.4,
+      "hotness": 0.6,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.3,
+      "garlicky": 0.4,
+      "oniony": 0.2,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.8,
+      "seafoodiness": 0.0,
+      "vegetal": 0.1,
+      "dairiness": 0.5,
+      "carb_rich": 0.3,
+      "nutty": 0.0
+    },
+    "tags": ["Indian", "spicy", "chicken"],
+    "calories": 384,
+    "vegetarian": false, 
+    "rating": 5
+  },
+  {
+    "name": "Grilled Salmon with Asparagus",
+    "description": "Tender salmon fillets paired with lightly charred asparagus spears.",
+    "image_url": "/images/24.jpg",
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.1,
+      "sourness": 0.1,
+      "saltiness": 0.3,
+      "bitterness": 0.2,
+      "umami": 0.7,
+      "crunchiness": 0.4,
+      "creaminess": 0.3,
+      "chewiness": 0.6,
+      "juiciness": 0.5,
+      "hotness": 0.0,
+      "oiliness": 0.4,
+      "smokiness": 0.2,
+      "charredness": 0.3,
+      "herbaceous": 0.2,
+      "garlicky": 0.1,
+      "oniony": 0.0,
+      "citrusy": 0.1,
+      "fermented": 0.0,
+      "meatiness": 0.8,
+      "seafoodiness": 0.0,
+      "vegetal": 0.4,
+      "dairiness": 0.0,
+      "carb_rich": 0.1,
+      "nutty": 0.0
+    },
+    "tags": ["seafood", "grilled", "healthy"],
+    "calories": 400,
+    "vegetarian": false, 
+    "rating": 5
+  },
+  {
+    "name": "Tempura Udon",
+    "description": "Japanese udon noodles served in a savory broth topped with crispy tempura.",
+    "image_url": "/images/25.jpg",
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.4,
+      "bitterness": 0.1,
+      "umami": 0.7,
+      "crunchiness": 0.6,
+      "creaminess": 0.3,
+      "chewiness": 0.5,
+      "juiciness": 0.4,
+      "hotness": 0.0,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.1,
+      "herbaceous": 0.2,
+      "garlicky": 0.1,
+      "oniony": 0.0,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.3,
+      "dairiness": 0.0,
+      "carb_rich": 0.5,
+      "nutty": 0.0
+    },
+    "tags": ["Japanese", "noodles", "tempura"],
+    "calories": 350,
+    "vegetarian": false, 
+    "rating": 4
+  },
+  {
+    "name": "Gnocchi with Pesto",
+    "description": "Soft potato gnocchi tossed in a vibrant basil pesto sauce.",
+    "image_url": "/images/26.jpg",
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.3,
+      "bitterness": 0.1,
+      "umami": 0.6,
+      "crunchiness": 0.2,
+      "creaminess": 0.4,
+      "chewiness": 0.5,
+      "juiciness": 0.3,
+      "hotness": 0.0,
+      "oiliness": 0.4,
+      "smokiness": 0.0,
+      "charredness": 0.1,
+      "herbaceous": 0.7,
+      "garlicky": 0.5,
+      "oniony": 0.0,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.3,
+      "dairiness": 0.2,
+      "carb_rich": 0.5,
+      "nutty": 0.3
+    },
+    "tags": ["Italian", "vegetarian", "pasta"],
+    "calories": 450,"vegetarian": true, "rating": 4
+  },
+  {
+    "name": "Banh Mi Sandwich",
+    "description": "Vietnamese sandwich with a crispy baguette filled with savory meats, pickled vegetables, and fresh herbs.",
+    "image_url": "/images/27.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.5,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.4,
+      "bitterness": 0.1,
+      "umami": 0.6,
+      "crunchiness": 0.7,
+      "creaminess": 0.3,
+      "chewiness": 0.4,
+      "juiciness": 0.5,
+      "hotness": 0.4,
+      "oiliness": 0.2,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.6,
+      "garlicky": 0.2,
+      "oniony": 0.3,
+      "citrusy": 0.1,
+      "fermented": 0.2,
+      "meatiness": 0.7,
+      "seafoodiness": 0.0,
+      "vegetal": 0.4,
+      "dairiness": 0.1,
+      "carb_rich": 0.5,
+      "nutty": 0.3
+    },
+    "tags": ["Vietnamese", "sandwich", "street food"],
+    "calories": 500,"vegetarian": false, "rating": 4
+
+
+  },
+  {
+    "name": "Stuffed Bell Peppers",
+    "description": "Bell peppers filled with a savory mixture of rice, ground beef, and tomato sauce, then baked to perfection.",
+    "image_url": "/images/28.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.3,
+      "bitterness": 0.0,
+      "umami": 0.6,
+      "crunchiness": 0.4,
+      "creaminess": 0.3,
+      "chewiness": 0.5,
+      "juiciness": 0.4,
+      "hotness": 0.0,
+      "oiliness": 0.2,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.2,
+      "garlicky": 0.3,
+      "oniony": 0.2,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.7,
+      "seafoodiness": 0.0,
+      "vegetal": 0.4,
+      "dairiness": 0.3,
+      "carb_rich": 0.5,
+      "nutty": 0.1
+    },
+    "tags": ["comfort food", "baked", "family meal"],
+    "calories": 350,"vegetarian": true, "rating": 4
+
+
+  },
+  {
+    "name": "Lamb Gyro",
+    "description": "Succulent lamb slices wrapped in warm pita bread with fresh vegetables and a tangy yogurt sauce.",
+    "image_url": "/images/29.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.2,
+      "sweetness": 0.1,
+      "sourness": 0.3,
+      "saltiness": 0.4,
+      "bitterness": 0.0,
+      "umami": 0.7,
+      "crunchiness": 0.3,
+      "creaminess": 0.3,
+      "chewiness": 0.5,
+      "juiciness": 0.4,
+      "hotness": 0.0,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.2,
+      "herbaceous": 0.5,
+      "garlicky": 0.4,
+      "oniony": 0.2,
+      "citrusy": 0.1,
+      "fermented": 0.0,
+      "meatiness": 0.8,
+      "seafoodiness": 0.0,
+      "vegetal": 0.3,
+      "dairiness": 0.3,
+      "carb_rich": 0.4,
+      "nutty": 0.1
+    },
+    "tags": ["Mediterranean", "street food", "grilled meat"],
+    "calories": 450,"vegetarian": false, "rating": 5
+
+
+  },
+  {
+    "name": "Thai Green Curry",
+    "description": "Aromatic Thai curry with green curry paste, coconut milk, and your choice of protein or tofu.",
+    "image_url": "/images/30.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.7,
+      "sweetness": 0.3,
+      "sourness": 0.2,
+      "saltiness": 0.5,
+      "bitterness": 0.1,
+      "umami": 0.6,
+      "crunchiness": 0.2,
+      "creaminess": 0.6,
+      "chewiness": 0.3,
+      "juiciness": 0.5,
+      "hotness": 0.6,
+      "oiliness": 0.4,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.5,
+      "garlicky": 0.3,
+      "oniony": 0.2,
+      "citrusy": 0.3,
+      "fermented": 0.0,
+      "meatiness": 0.4,
+      "seafoodiness": 0.2,
+      "vegetal": 0.5,
+      "dairiness": 0.0,
+      "carb_rich": 0.3,
+      "nutty": 0.2
+    },
+    "tags": ["Thai", "curry", "coconut milk"],
+    "calories": 350,"vegetarian": false, "rating": 4
+
+
+  },
+  {
+    "name": "Mushroom Risotto",
+    "description": "Creamy Italian rice dish made with Arborio rice, wild mushrooms, and Parmesan cheese.",
+    "image_url": "/images/31.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.3,
+      "bitterness": 0.1,
+      "umami": 0.7,
+      "crunchiness": 0.2,
+      "creaminess": 0.8,
+      "chewiness": 0.5,
+      "juiciness": 0.3,
+      "hotness": 0.0,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.3,
+      "garlicky": 0.2,
+      "oniony": 0.1,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.6,
+      "dairiness": 0.4,
+      "carb_rich": 0.5,
+      "nutty": 0.2
+    },
+    "tags": ["Italian", "vegetarian", "comfort food"],
+    "calories": 350,"vegetarian": true, "rating": 5
+
+
+  },
+  {
+    "name": "Jerk Chicken",
+    "description": "Spicy Jamaican grilled chicken marinated with Scotch bonnet peppers, allspice, and thyme.",
+    "image_url": "/images/32.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.8,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.4,
+      "bitterness": 0.0,
+      "umami": 0.6,
+      "crunchiness": 0.3,
+      "creaminess": 0.1,
+      "chewiness": 0.6,
+      "juiciness": 0.5,
+      "hotness": 0.8,
+      "oiliness": 0.2,
+      "smokiness": 0.0,
+      "charredness": 0.3,
+      "herbaceous": 0.5,
+      "garlicky": 0.4,
+      "oniony": 0.3,
+      "citrusy": 0.2,
+      "fermented": 0.0,
+      "meatiness": 0.9,
+      "seafoodiness": 0.0,
+      "vegetal": 0.2,
+      "dairiness": 0.0,
+      "carb_rich": 0.1,
+      "nutty": 0.1
+    },
+    "tags": ["Caribbean", "grilled", "spicy"],
+    "calories": 320,"vegetarian": false, "rating": 4
+
+
+  },
+  {
+    "name": "Sweet and Sour Pork",
+    "description": "Crispy pork pieces stir-fried with bell peppers, onions, and pineapple in a tangy sauce.",
+    "image_url": "/images/33.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.6,
+      "sourness": 0.5,
+      "saltiness": 0.4,
+      "bitterness": 0.0,
+      "umami": 0.6,
+      "crunchiness": 0.7,
+      "creaminess": 0.0,
+      "chewiness": 0.5,
+      "juiciness": 0.6,
+      "hotness": 0.0,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.2,
+      "herbaceous": 0.1,
+      "garlicky": 0.2,
+      "oniony": 0.3,
+      "citrusy": 0.2,
+      "fermented": 0.0,
+      "meatiness": 0.8,
+      "seafoodiness": 0.0,
+      "vegetal": 0.4,
+      "dairiness": 0.0,
+      "carb_rich": 0.3,
+      "nutty": 0.1
+    },
+    "tags": ["Chinese", "stir-fry", "sweet and sour"],
+    "calories": 400,"vegetarian": false, "rating": 4
+
+
+  },
+  {
+    "name": "Spinach and Feta Stuffed Chicken",
+    "description": "Juicy chicken breasts filled with a flavorful mixture of spinach, feta cheese, and pine nuts, then pan-seared and baked to perfection.",
+    "image_url": "/images/34.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.1,
+      "sourness": 0.0,
+      "saltiness": 0.3,
+      "bitterness": 0.0,
+      "umami": 0.6,
+      "crunchiness": 0.2,
+      "creaminess": 0.4,
+      "chewiness": 0.5,
+      "juiciness": 0.6,
+      "hotness": 0.0,
+      "oiliness": 0.2,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.3,
+      "garlicky": 0.2,
+      "oniony": 0.1,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.7,
+      "seafoodiness": 0.0,
+      "vegetal": 0.4,
+      "dairiness": 0.3,
+      "carb_rich": 0.2,
+      "nutty": 0.1
+    },
+    "tags": ["Mediterranean", "low-carb", "protein-rich"],
+    "calories": 354,"vegetarian": false, "rating": 4
+
+
+  },
+  {
+    "name": "Teriyaki Tofu Bowl",
+    "description": "Crispy tofu cubes glazed with a sweet and savory teriyaki sauce, served over a bed of steamed rice with sautéed vegetables.",
+    "image_url": "/images/35.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.6,
+      "sourness": 0.2,
+      "saltiness": 0.4,
+      "bitterness": 0.0,
+      "umami": 0.5,
+      "crunchiness": 0.3,
+      "creaminess": 0.2,
+      "chewiness": 0.4,
+      "juiciness": 0.5,
+      "hotness": 0.0,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.2,
+      "garlicky": 0.2,
+      "oniony": 0.1,
+      "citrusy": 0.1,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.6,
+      "dairiness": 0.0,
+      "carb_rich": 0.4,
+      "nutty": 0.2
+    },
+    "tags": ["vegan", "Japanese", "gluten-free"],
+    "calories": 400,"vegetarian": true, "rating": 4
+
+
+  },
+  {
+    "name": "Chili Con Carne",
+    "description": "A hearty and spicy stew made with ground beef, tomatoes, and a blend of chili spices, simmered to perfection.",
+    "image_url": "/images/36.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.7,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.5,
+      "bitterness": 0.0,
+      "umami": 0.6,
+      "crunchiness": 0.0,
+      "creaminess": 0.0,
+      "chewiness": 0.5,
+      "juiciness": 0.6,
+      "hotness": 0.7,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.2,
+      "garlicky": 0.3,
+      "oniony": 0.2,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.8,
+      "seafoodiness": 0.0,
+      "vegetal": 0.4,
+      "dairiness": 0.0,
+      "carb_rich": 0.3,
+      "nutty": 0.1
+    },
+    "tags": ["Tex-Mex", "comfort food", "spicy"],
+    "calories": 450,"vegetarian": false, "rating": 4
+
+
+  },
+  {
+    "name": "Moroccan Couscous",
+    "description": "A traditional North African dish featuring steamed couscous topped with a medley of vegetables, chickpeas, and a blend of aromatic spices.",
+    "image_url": "/images/37.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.2,
+      "sweetness": 0.3,
+      "sourness": 0.1,
+      "saltiness": 0.3,
+      "bitterness": 0.0,
+      "umami": 0.5,
+      "crunchiness": 0.2,
+      "creaminess": 0.1,
+      "chewiness": 0.4,
+      "juiciness": 0.3,
+      "hotness": 0.0,
+      "oiliness": 0.1,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.4,
+      "garlicky": 0.2,
+      "oniony": 0.1,
+      "citrusy": 0.2,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.7,
+      "dairiness": 0.0,
+      "carb_rich": 0.5,
+      "nutty": 0.3
+    },
+    "tags": ["North African", "vegetarian", "spiced"],
+    "calories": 350,"vegetarian": true, "rating": 4
+
+
+  },
+  {
+    "name": "Caprese Sandwich",
+    "description": "A classic Italian sandwich featuring fresh mozzarella, ripe tomatoes, basil leaves, and a drizzle of balsamic glaze, all nestled between slices of crusty bread.",
+    "image_url": "/images/38.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.3,
+      "bitterness": 0.0,
+      "umami": 0.5,
+      "crunchiness": 0.3,
+      "creaminess": 0.4,
+      "chewiness": 0.5,
+      "juiciness": 0.6,
+      "hotness": 0.0,
+      "oiliness": 0.2,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.5,
+      "garlicky": 0.1,
+      "oniony": 0.1,
+      "citrusy": 0.2,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.7,
+      "dairiness": 0.4,
+      "carb_rich": 0.5,
+      "nutty": 0.1
+    },
+    "tags": ["Italian", "vegetarian", "sandwich"],
+    "calories": 460,"vegetarian": true, "rating": 4
+
+
+  },
+  {
+    "name": "Beef Pho",
+    "description": "A fragrant Vietnamese noodle soup consisting of a rich beef broth, thinly sliced raw beef, rice noodles, and a variety of fresh herbs and garnishes.",
+    "image_url": "/images/39.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.3,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.4,
+      "bitterness": 0.0,
+      "umami": 0.6,
+      "crunchiness": 0.3,
+      "creaminess": 0.0,
+      "chewiness": 0.5,
+      "juiciness": 0.7,
+      "hotness": 0.3,
+      "oiliness": 0.1,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.5,
+      "garlicky": 0.2,
+      "oniony": 0.3,
+      "citrusy": 0.2,
+      "fermented": 0.0,
+      "meatiness": 0.8,
+      "seafoodiness": 0.0,
+      "vegetal": 0.4,
+      "dairiness": 0.0,
+      "carb_rich": 0.4,
+      "nutty": 0.1
+    },
+    "tags": ["Vietnamese", "soup", "noodles"],
+    "calories": 500,"vegetarian": false, "rating": 5
+
+
+  },
+  {
+    "name": "Ratatouille",
+    "description": "A traditional French Provençal stewed vegetable dish originating from Nice, featuring a medley of tomatoes, zucchini, eggplant, bell peppers, onions, and garlic, seasoned with herbs like basil, thyme, and marjoram.",
+    "image_url": "/images/40.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.3,
+      "sourness": 0.2,
+      "saltiness": 0.3,
+      "bitterness": 0.1,
+      "umami": 0.5,
+      "crunchiness": 0.3,
+      "creaminess": 0.2,
+      "chewiness": 0.4,
+      "juiciness": 0.6,
+      "hotness": 0.0,
+      "oiliness": 0.2,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.7,
+      "garlicky": 0.3,
+      "oniony": 0.2,
+      "citrusy": 0.1,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.8,
+      "dairiness": 0.0,
+      "carb_rich": 0.4,
+      "nutty": 0.2
+    },
+    "tags": ["French", "vegetarian", "herbaceous"],
+    "calories": 250,"vegetarian": true, "rating": 5
+
+
+  },
+  {
+    "name": "Chicken Enchiladas",
+    "description": "A classic Mexican dish consisting of corn tortillas filled with shredded chicken, rolled and smothered in a rich red or green chili sauce, then baked with melted cheese on top.",
+    "image_url": "/images/41.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.6,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.4,
+      "bitterness": 0.0,
+      "umami": 0.6,
+      "crunchiness": 0.2,
+      "creaminess": 0.3,
+      "chewiness": 0.5,
+      "juiciness": 0.6,
+      "hotness": 0.6,
+      "oiliness": 0.3,
+      "smokiness": 0.1,
+      "charredness": 0.0,
+      "herbaceous": 0.4,
+      "garlicky": 0.3,
+      "oniony": 0.2,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.7,
+      "seafoodiness": 0.0,
+      "vegetal": 0.3,
+      "dairiness": 0.4,
+      "carb_rich": 0.5,
+      "nutty": 0.1
+    },
+    "tags": ["Mexican", "comfort food", "spicy"],
+    "calories": 450, "vegetarian": false, "rating": 4
+
+
+  },
+  {
+    "name": "Lentil Soup",
+    "description": "A hearty and nutritious soup made with lentils, vegetables like carrots and onions, and seasoned with a blend of spices such as cumin, coriander, and turmeric, often finished with a splash of lemon juice.",
+    "image_url": "/images/42.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.2,
+      "sweetness": 0.3,
+      "sourness": 0.2,
+      "saltiness": 0.3,
+      "bitterness": 0.0,
+      "umami": 0.4,
+      "crunchiness": 0.1,
+      "creaminess": 0.3,
+      "chewiness": 0.4,
+      "juiciness": 0.5,
+      "hotness": 0.0,
+      "oiliness": 0.2,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.5,
+      "garlicky": 0.2,
+      "oniony": 0.3,
+      "citrusy": 0.2,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.7,
+      "dairiness": 0.0,
+      "carb_rich": 0.4,
+      "nutty": 0.3
+    },
+    "tags": ["vegetarian", "comfort food", "hearty"],
+    "calories": 300,"vegetarian": true, "rating": 4
+
+
+  },
+  {
+    "name": "Crab Cakes",
+    "description": "Delicate patties made from lump crab meat, seasoned with herbs and spices, and pan-fried to golden perfection.",
+    "image_url": "/images/43.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.2,
+      "sourness": 0.0,
+      "saltiness": 0.3,
+      "bitterness": 0.0,
+      "umami": 0.7,
+      "crunchiness": 0.3,
+      "creaminess": 0.4,
+      "chewiness": 0.5,
+      "juiciness": 0.6,
+      "hotness": 0.0,
+      "oiliness": 0.2,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.3,
+      "garlicky": 0.2,
+      "oniony": 0.1,
+      "citrusy": 0.1,
+      "fermented": 0.0,
+      "meatiness": 0.8,
+      "seafoodiness": 1.0,
+      "vegetal": 0.2,
+      "dairiness": 0.0,
+      "carb_rich": 0.2,
+      "nutty": 0.1
+    },
+    "tags": ["seafood", "appetizer", "American"],
+    "calories": 350,"vegetarian": false, "rating": 4
+
+
+  },
+  {
+    "name": "Chicken Katsu",
+    "description": "Japanese-style breaded and deep-fried chicken cutlets, served with a tangy tonkatsu sauce.",
+    "image_url": "/images/44.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.4,
+      "bitterness": 0.0,
+      "umami": 0.6,
+      "crunchiness": 0.5,
+      "creaminess": 0.2,
+      "chewiness": 0.6,
+      "juiciness": 0.7,
+      "hotness": 0.0,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.1,
+      "garlicky": 0.0,
+      "oniony": 0.0,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.9,
+      "seafoodiness": 0.0,
+      "vegetal": 0.1,
+      "dairiness": 0.0,
+      "carb_rich": 0.3,
+      "nutty": 0.2
+    },
+    "tags": ["Japanese", "fried", "comfort food"],
+    "calories": 600,"vegetarian": false, "rating": 4
+
+
+  },
+  {
+    "name": "Zucchini Noodles with Marinara",
+    "description": "Low-carb alternative to pasta, featuring spiralized zucchini topped with a rich tomato marinara sauce.",
+    "image_url": "/images/45.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.1,
+      "sweetness": 0.2,
+      "sourness": 0.3,
+      "saltiness": 0.2,
+      "bitterness": 0.1,
+      "umami": 0.5,
+      "crunchiness": 0.4,
+      "creaminess": 0.0,
+      "chewiness": 0.3,
+      "juiciness": 0.6,
+      "hotness": 0.0,
+      "oiliness": 0.1,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.5,
+      "garlicky": 0.3,
+      "oniony": 0.2,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.8,
+      "dairiness": 0.0,
+      "carb_rich": 0.2,
+      "nutty": 0.1
+    },
+    "tags": ["vegetarian", "low-carb", "Italian"],
+    "calories": 250, "vegetarian": true, "rating": 4
+
+
+  },
+  {
+    "name": "Shakshuka",
+    "description": "A North African and Middle Eastern dish of poached eggs in a spicy tomato and pepper sauce, often enjoyed with crusty bread.",
+    "image_url": "/images/46.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.4,
+      "sweetness": 0.3,
+      "sourness": 0.2,
+      "saltiness": 0.3,
+      "bitterness": 0.0,
+      "umami": 0.5,
+      "crunchiness": 0.2,
+      "creaminess": 0.3,
+      "chewiness": 0.4,
+      "juiciness": 0.6,
+      "hotness": 0.0,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.6,
+      "garlicky": 0.4,
+      "oniony": 0.3,
+      "citrusy": 0.1,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.8,
+      "dairiness": 0.0,
+      "carb_rich": 0.3,
+      "nutty": 0.1
+    },
+    "tags": ["Middle Eastern", "breakfast", "vegetarian"],
+    "calories": 350,"vegetarian": true, "rating": 5
+
+
+  },
+  {
+    "name": "Peking Duck",
+    "description": "A renowned Chinese dish from Beijing featuring crispy duck skin served with thin pancakes, hoisin sauce, and julienned vegetables.",
+    "image_url": "/images/47.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.4,
+      "bitterness": 0.0,
+      "umami": 0.8,
+      "crunchiness": 0.5,
+      "creaminess": 0.2,
+      "chewiness": 0.6,
+      "juiciness": 0.7,
+      "hotness": 0.0,
+      "oiliness": 0.4,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.2,
+      "garlicky": 0.1,
+      "oniony": 0.1,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 1.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.3,
+      "dairiness": 0.0,
+      "carb_rich": 0.2,
+      "nutty": 0.1
+    },
+    "tags": ["Chinese", "roast", "luxury"],
+    "calories": 700,"vegetarian": false, "rating": 5
+
+
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "description": "An Italian classic from Bologna, featuring a rich meat sauce made with ground beef, pork, tomatoes, and soffritto, served over pasta.",
+    "image_url": "/images/48.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.2,
+      "sourness": 0.1,
+      "saltiness": 0.3,
+      "bitterness": 0.0,
+      "umami": 0.7,
+      "crunchiness": 0.1,
+      "creaminess": 0.4,
+      "chewiness": 0.5,
+      "juiciness": 0.6,
+      "hotness": 0.0,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.3,
+      "garlicky": 0.3,
+      "oniony": 0.4,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.9,
+      "seafoodiness": 0.0,
+      "vegetal": 0.2,
+      "dairiness": 0.2,
+      "carb_rich": 0.5,
+      "nutty": 0.1
+    },
+    "tags": ["Italian", "comfort food", "hearty"],
+    "calories": 600,"vegetarian": false, "rating": 4
+
+
+  },
+  {
+    "name": "Roasted Cauliflower Tacos",
+    "description": "A vibrant vegetarian taco featuring roasted cauliflower florets seasoned with taco spices, topped with a creamy avocado crema and fresh slaw, all wrapped in warm tortillas.",
+    "image_url": "/images/49.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.3,
+      "sweetness": 0.2,
+      "sourness": 0.2,
+      "saltiness": 0.3,
+      "bitterness": 0.1,
+      "umami": 0.4,
+      "crunchiness": 0.5,
+      "creaminess": 0.4,
+      "chewiness": 0.3,
+      "juiciness": 0.5,
+      "hotness": 0.0,
+      "oiliness": 0.2,
+      "smokiness": 0.0,
+      "charredness": 0.1,
+      "herbaceous": 0.6,
+      "garlicky": 0.3,
+      "oniony": 0.2,
+      "citrusy": 0.2,
+      "fermented": 0.0,
+      "meatiness": 0.0,
+      "seafoodiness": 0.0,
+      "vegetal": 0.8,
+      "dairiness": 0.0,
+      "carb_rich": 0.4,
+      "nutty": 0.1
+    },
+    "tags": ["vegetarian", "Mexican", "healthy"],
+    "calories": 354,"vegetarian": true, "rating": 4
+
+
+  },
+  {
+    "name": "Shepherd's Pie",
+    "description": "A classic British comfort food made with a savory filling of ground meat (typically lamb), vegetables, and gravy, topped with a layer of creamy mashed potatoes and baked until golden.",
+    "image_url": "/images/50.jpg"
+
+,
+    "genome_data": {
+      "spiciness": 0.0,
+      "sweetness": 0.1,
+      "sourness": 0.0,
+      "saltiness": 0.4,
+      "bitterness": 0.0,
+      "umami": 0.7,
+      "crunchiness": 0.0,
+      "creaminess": 0.5,
+      "chewiness": 0.6,
+      "juiciness": 0.4,
+      "hotness": 0.0,
+      "oiliness": 0.3,
+      "smokiness": 0.0,
+      "charredness": 0.0,
+      "herbaceous": 0.3,
+      "garlicky": 0.2,
+      "oniony": 0.3,
+      "citrusy": 0.0,
+      "fermented": 0.0,
+      "meatiness": 0.9,
+      "seafoodiness": 0.0,
+      "vegetal": 0.2,
+      "dairiness": 0.3,
+      "carb_rich": 0.5,
+      "nutty": 0.1
+    },
+    "tags": ["British", "comfort food", "hearty"],
+    "calories": 600,"vegetarian": false, "rating": 4
+
+
+  }
+]
