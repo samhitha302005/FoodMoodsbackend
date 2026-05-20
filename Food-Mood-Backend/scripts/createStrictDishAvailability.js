@@ -1,7 +1,6 @@
 require('dotenv').config({ path: require('path').resolve(__dirname, '../.env') });
 const mongoose = require('mongoose');
 const fs = require('fs');
-import { ensureGenomeData } from './genomeHelper';
 
 // Load your models
 const DishAvailability = require('../models/DishAvailability');
@@ -18,7 +17,7 @@ mongoose.connect(process.env.MONGO_URI)
 const dishes = JSON.parse(fs.readFileSync('../data/dishes.json', 'utf8'));
 const restaurants = JSON.parse(fs.readFileSync('../data/restaurants.json', 'utf8'));
 
-ensureGenomeData(dishes);
+// ensureGenomeData(dishes);
 
 // Helper: shuffle array
 function shuffleArray(array) {
