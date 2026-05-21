@@ -51,7 +51,7 @@ Follow these steps to set up the backend locally:
 #### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/sakethnarayana/Food-mood-backend.git
+git clone https://github.com/samhitha302005/FoodMoodsbackend
 cd Food-Mood-Backend
 ```
 
